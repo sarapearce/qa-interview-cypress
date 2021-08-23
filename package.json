@@ -14,6 +14,7 @@
     "cypress:verify": "cypress verify",
     "start": "cross-env NODE_ENV=test parcel serve --no-cache public/index.html",
     "dev": "cross-env NODE_ENV=test start-test 1234 cypress:open",
+
     "report:coverage": "nyc report --reporter=html",
     "report:coverage:text": "nyc report --reporter=text",
     "report:coverage:summary": "nyc report --reporter=text-summary",
@@ -34,7 +35,7 @@
   "bugs": {
     "url": "https://github.com/cypress-io/cypress-example-todomvc-redux/issues"
   },
-  "homepage": "https://github.com/cypress-io/cypress-example-todomvc-redux#readme",
+  "homepage": "https://sarapearce.github.io/qa-interview-cypress",
   "devDependencies": {
     "@babel/core": "7.13.14",
     "@babel/preset-react": "7.13.13",
