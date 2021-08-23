@@ -1,5 +1,5 @@
 {
-  "baseUrl": "infallible-jones-dd3b53.netlify.app",
+  "baseUrl": "https://infallible-jones-dd3b53.netlify.app",
   "ignoreTestFiles": [
     "**/*.snap",
     "**/__snapshot__/*",
